@@ -5,6 +5,6 @@
 - 📫 How to reach me through email - ashish.arya20@gmail.com
 
 <!---
-ash-kicker07/ash-kicker07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aashish-arya/Projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
