@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aashish arya I have done B.tech from DTU
 - 👀 I’m interested in Artificial intelligence field given that I am fairly new to this field. 
-- 🌱 I’m currently Learing Different kinds of ML algorithms.
+- 🌱 I’m currently Learing various types of ML algorithms.
 - 💞️ I’m looking to collaborate on some kaggle compitions
 - 📫 How to reach me through email - ashish.arya20@gmail.com
 
